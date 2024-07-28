@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Ara\u00E7_Takip_Sistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D150A95A-6EB8-4013-9026-091838D1E911}|Ara\u00E7_Takip_Sistemi\\Proje_1.1.csproj|c:\\users\\hp\\source\\repos\\ara\u00E7_takip_sistemi\\ara\u00E7_takip_sistemi\\matematik_\u0130\u015Flemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D150A95A-6EB8-4013-9026-091838D1E911}|Ara\u00E7_Takip_Sistemi\\Proje_1.1.csproj|solutionrelative:ara\u00E7_takip_sistemi\\matematik_\u0130\u015Flemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D150A95A-6EB8-4013-9026-091838D1E911}|Ara\u00E7_Takip_Sistemi\\Proje_1.1.csproj|c:\\users\\hp\\source\\repos\\ara\u00E7_takip_sistemi\\ara\u00E7_takip_sistemi\\say\u0131tutucu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D150A95A-6EB8-4013-9026-091838D1E911}|Ara\u00E7_Takip_Sistemi\\Proje_1.1.csproj|solutionrelative:ara\u00E7_takip_sistemi\\say\u0131tutucu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D150A95A-6EB8-4013-9026-091838D1E911}|Ara\u00E7_Takip_Sistemi\\Ara\u00E7_Takip_Sistemi.csproj|c:\\users\\hp\\source\\repos\\ara\u00E7_takip_sistemi\\ara\u00E7_takip_sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D150A95A-6EB8-4013-9026-091838D1E911}|Ara\u00E7_Takip_Sistemi\\Ara\u00E7_Takip_Sistemi.csproj|solutionrelative:ara\u00E7_takip_sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Matematik_\u0130\u015Flemleri.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Ara\u00E7_Takip_Sistemi\\Ara\u00E7_Takip_Sistemi\\Matematik_\u0130\u015Flemleri.cs",
+              "RelativeDocumentMoniker": "Ara\u00E7_Takip_Sistemi\\Matematik_\u0130\u015Flemleri.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Ara\u00E7_Takip_Sistemi\\Ara\u00E7_Takip_Sistemi\\Matematik_\u0130\u015Flemleri.cs",
+              "RelativeToolTip": "Ara\u00E7_Takip_Sistemi\\Matematik_\u0130\u015Flemleri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:08:08.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Say\u0131Tutucu.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Ara\u00E7_Takip_Sistemi\\Ara\u00E7_Takip_Sistemi\\Say\u0131Tutucu.cs",
+              "RelativeDocumentMoniker": "Ara\u00E7_Takip_Sistemi\\Say\u0131Tutucu.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Ara\u00E7_Takip_Sistemi\\Ara\u00E7_Takip_Sistemi\\Say\u0131Tutucu.cs",
+              "RelativeToolTip": "Ara\u00E7_Takip_Sistemi\\Say\u0131Tutucu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T14:37:48.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Ara\u00E7_Takip_Sistemi\\Ara\u00E7_Takip_Sistemi\\Program.cs",
+              "RelativeDocumentMoniker": "Ara\u00E7_Takip_Sistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Ara\u00E7_Takip_Sistemi\\Ara\u00E7_Takip_Sistemi\\Program.cs",
+              "RelativeToolTip": "Ara\u00E7_Takip_Sistemi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T12:52:17.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

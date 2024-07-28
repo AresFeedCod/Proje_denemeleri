@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje_1.1", "Araç_Takip_Sistemi\Proje_1.1.csproj", "{D150A95A-6EB8-4013-9026-091838D1E911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D150A95A-6EB8-4013-9026-091838D1E911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D150A95A-6EB8-4013-9026-091838D1E911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D150A95A-6EB8-4013-9026-091838D1E911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D150A95A-6EB8-4013-9026-091838D1E911}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBF3C698-A81F-4100-A4CC-0ADC3984F764}
+	EndGlobalSection
+EndGlobal
